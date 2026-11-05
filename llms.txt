@@ -1,0 +1,56 @@
+# BS Works — Birinder Singh (Freelance Web Developer in Patiala, Punjab, India)
+
+> BS Works (https://www.bsworks.store/) is the independent web design and development studio of Birinder Singh, a freelance web developer and ecommerce specialist based in Patiala, Punjab, India. BS Works builds custom Shopify stores, Shopify Liquid OS 2.0 theme customizations, WordPress & Elementor websites, custom WordPress plugins, and WooCommerce online stores for businesses in Patiala, Mohali, Chandigarh, Ludhiana, Rajpura, across India, and remotely for clients in Canada and Australia.
+
+## Business & Contact Details
+- **Brand Name:** BS Works (Birinder Singh Web Development / Website Designer & Developer)
+- **Founder & Lead Developer:** Birinder Singh
+- **Headquarters:** Patiala, Punjab, India (Serving Urban Estate, Model Town, Leela Bhawan, Rajpura Colony, DMW Road, Tripuri)
+- **Regional Service Areas:** Patiala, Mohali (SAS Nagar), Chandigarh, Panchkula, Ludhiana, Rajpura, Nabha, Samana, Punjab, India
+- **International Markets:** Canada (Montreal, Mississauga, Brampton, Langley) and Australia
+- **Phone / WhatsApp:** +91 86992 00848
+- **Email:** bsworks.store@gmail.com
+- **Upwork Profile:** https://www.upwork.com/freelancers/~016a32845c8713f4b8?mp_source=share
+- **LinkedIn:** https://www.linkedin.com/in/birinder-singh-brahia/
+- **Turnaround:** 4–5 days for standard websites and stores; up to 10 days for complex catalogues or custom plugins
+- **Pricing Structure:** Fixed upfront written quote; 50% advance to start, 50% upon review before launch
+- **Official Website:** https://www.bsworks.store/
+
+## Core Pages & Hubs
+- [Homepage — Freelance Web Developer Patiala | Birinder Singh BS Works](https://www.bsworks.store/)
+- [All Web Design & Development Services in Patiala](https://www.bsworks.store/services/)
+- [Web Development Service Areas in Punjab](https://www.bsworks.store/locations/)
+- [Freelance Web Developer Portfolio & Case Studies](https://www.bsworks.store/work/)
+- [Ecommerce & Web Development Blog](https://www.bsworks.store/blog/)
+- [Contact BS Works & Request a Project Quote](https://www.bsworks.store/contact/)
+- [Website Privacy Policy & Data Protection](https://www.bsworks.store/privacy-policy/)
+
+## Web Development & Ecommerce Services
+- [Custom Website Design & Responsive UI/UX in Patiala](https://www.bsworks.store/services/website-design/): Hand-coded HTML5/CSS3/JS/Bootstrap and WordPress business websites and landing pages.
+- [Freelance Shopify Developer in Patiala & Worldwide](https://www.bsworks.store/services/shopify-development/): End-to-end Shopify store setup, collection architecture, responsive storefront design, and app configuration.
+- [Shopify Liquid Theme Customization & Custom OS 2.0 Sections](https://www.bsworks.store/services/shopify-theme-customization/): Custom Liquid sections, JSON templates, theme editor controls, layout bug fixes, and speed cleanup.
+- [Freelance WordPress Developer in Patiala & Custom Elementor Builds](https://www.bsworks.store/services/wordpress-development/): Manageable WordPress and Elementor business sites plus custom PHP/MySQL WordPress plugin development.
+- [WooCommerce Store Development in Patiala & India](https://www.bsworks.store/services/woocommerce-development/): Self-hosted WordPress ecommerce stores, custom product/department layouts, and checkout customization.
+- [Website Speed Optimization Services & Maintenance](https://www.bsworks.store/services/website-maintenance/): Core Web Vitals optimization, leftover app/plugin cleanup, bug fixes, and ongoing care.
+- [Technical SEO Services & On-Page Optimization in Patiala](https://www.bsworks.store/services/seo-services/): Keyword-to-page mapping, semantic headings, JSON-LD structured data, XML sitemaps, and local SEO signals.
+
+## Regional Service Area Pages (Punjab & Tricity)
+- [Freelance Web Developer in Patiala (HQ)](https://www.bsworks.store/locations/patiala/): Serving Urban Estate Phase 1 & 2, Model Town, Leela Bhawan, Rajpura Colony, DMW Road, Tripuri, and Sirhind Road.
+- [Freelance Web Developer in Mohali (SAS Nagar)](https://www.bsworks.store/locations/mohali/): Serving Phase 1–11, Sector 66–82, IT City Mohali, Airport Road, Kharar, and Zirakpur.
+- [Website Development & Design in Chandigarh & Panchkula](https://www.bsworks.store/locations/chandigarh/): Serving Sector 17, Sector 34, Sector 8 & 9, Industrial Area Phase 1 & 2, IT Park, and Panchkula.
+- [Shopify & Ecommerce Web Developer in Ludhiana](https://www.bsworks.store/locations/ludhiana/): Serving Sarabha Nagar, Model Town, Civil Lines, Ferozepur Road, and Focal Point for apparel and manufacturing brands.
+- [Website Designer in Rajpura, Nabha & Samana](https://www.bsworks.store/locations/rajpura/): Serving Rajpura Town, Focal Point Rajpura, GT Road, Nabha, Samana, Banur, and Patran.
+
+## Live Client Case Studies (8 Commercial Builds)
+- [FuturTech — Bilingual (EN/FR) Electronics & Repair Shopify Store (Montreal, Canada)](https://www.bsworks.store/work/futurtech/)
+- [The Nirvana Cafe — Custom WordPress & Elementor Restaurant Website with Table Reservations & Pickup Ordering (Mississauga, Canada)](https://www.bsworks.store/work/nirvana-cafe/)
+- [Sleek Kraft — Multi-Department WooCommerce Homeware & Wooden Décor Store (Langley, Canada)](https://www.bsworks.store/work/sleek-kraft/)
+- [Singla Collection — Ethnic Fashion, Bridal & Jewellery Shopify Store (Australia)](https://www.bsworks.store/work/singla-collection/)
+- [Lensking Studios — WordPress Wedding Photography Portfolio & Enquiry Website (Mohali, Punjab, India)](https://www.bsworks.store/work/lensking-studios/)
+- [Brown Heritage — Punjabi Streetwear Shopify Store with Custom Design Request Flow (Canada)](https://www.bsworks.store/work/brown-heritage/)
+- [MastiMagic — Indian Candies, Chocolates & Snacks Shopify Store (Brampton, Canada)](https://www.bsworks.store/work/mastimagic/)
+- [G. R. Gifts & Hampers — Occasion & Corporate Gift Box Shopify Store (Canada)](https://www.bsworks.store/work/gr-gifts/)
+
+## Technical Guides & Comparisons
+- [Shopify vs WooCommerce for Indian Businesses: Complete Comparison](https://www.bsworks.store/blog/shopify-vs-woocommerce-india/)
+- [Common WordPress Website Problems & How to Fix Slow Sites](https://www.bsworks.store/blog/common-wordpress-website-problems/)

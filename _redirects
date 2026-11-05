@@ -1,0 +1,8 @@
+# Netlify redirects for www.bsworks.store
+# Keep this file name exactly: _redirects (no .txt)
+
+# Old links to blog.html go to the blog (permanent once /blog/ exists).
+/blog.html  /blog/  301
+
+# The hero photo was renamed to a descriptive file name; keep old links and image-search results working.
+/assets/hero-sculpture.webp  /assets/birinder-singh-portrait.webp  301

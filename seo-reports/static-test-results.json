@@ -1,0 +1,261 @@
+{
+  "pages_checked": 22,
+  "sitemap_urls": 22,
+  "keyword_targets": 27,
+  "static_checks_passed": 220,
+  "static_checks_expected": 220,
+  "errors": [],
+  "warnings": [],
+  "homepage_old_bytes": 353679,
+  "homepage_new_bytes": 163859,
+  "homepage_html_reduction_percent": 53.7,
+  "home_css_bytes": 98999,
+  "home_js_bytes": 88952,
+  "pages": [
+    {
+      "url": "/blog/common-wordpress-website-problems/",
+      "H1": "Common WordPress Website Problems (and How to Fix Them)",
+      "images": 4,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/blog/",
+      "H1": "Blog",
+      "images": 2,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/blog/shopify-vs-woocommerce-india/",
+      "H1": "Shopify vs WooCommerce for Indian Businesses",
+      "images": 4,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/",
+      "H1": "Freelance Web Designer & Developer in Patiala",
+      "images": 88,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/privacy-policy/",
+      "H1": "Privacy Policy",
+      "images": 2,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/services/",
+      "H1": "Web Design & Development Services",
+      "images": 6,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/services/seo-services/",
+      "H1": "SEO Services in Patiala",
+      "images": 2,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/services/shopify-development/",
+      "H1": "Shopify Developer in Patiala",
+      "images": 7,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/services/shopify-theme-customization/",
+      "H1": "Shopify Theme Customization",
+      "images": 5,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/services/website-design/",
+      "H1": "Business Website Design & Custom Development",
+      "images": 5,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/services/website-maintenance/",
+      "H1": "Website Maintenance Services in Patiala",
+      "images": 5,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/services/woocommerce-development/",
+      "H1": "WooCommerce Developer in Patiala",
+      "images": 3,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/services/wordpress-development/",
+      "H1": "WordPress Developer in Patiala",
+      "images": 5,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/work/brown-heritage/",
+      "H1": "Brown Heritage Shopify store for a Punjabi streetwear label",
+      "images": 6,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/work/futurtech/",
+      "H1": "FuturTech Bilingual Shopify store for a Montreal phone shop",
+      "images": 6,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/work/gr-gifts/",
+      "H1": "G. R. Gifts & Hampers Shopify store for gift boxes, hampers and corporate giftin",
+      "images": 6,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/work/",
+      "H1": "Website Case Studies",
+      "images": 10,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/work/lensking-studios/",
+      "H1": "Lensking Studios WordPress website for a Mohali wedding photography studio",
+      "images": 6,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/work/mastimagic/",
+      "H1": "MastiMagic Shopify store for Indian candies and snacks",
+      "images": 6,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/work/nirvana-cafe/",
+      "H1": "The Nirvana Cafe WordPress café website with reservations and pickup ordering",
+      "images": 6,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/work/singla-collection/",
+      "H1": "Singla Collection Shopify catalogue for Punjabi suits and bridal jewellery",
+      "images": 6,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    },
+    {
+      "url": "/work/sleek-kraft/",
+      "H1": "Sleek Kraft WooCommerce store for handcrafted wooden homeware",
+      "images": 6,
+      "alt_missing": 0,
+      "footer": [
+        "ft"
+      ],
+      "checks": 10,
+      "passed": 10
+    }
+  ],
+  "form_static_detection_markup": true,
+  "browser_test": "BLOCKED: chromium navigation blocked by execution environment policy; no reliable layout, console or animation conclusions",
+  "live_status_dns_gsc_email": "NOT VERIFIED: no Netlify/GSC/DNS/account access and public origin was inaccessible from web fetch"
+}
